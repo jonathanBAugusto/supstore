@@ -1,0 +1,14 @@
+SupStore;
+
+Sistema de Fluxo de caixa para varejo;
+Flutter Desktop;
+packages--
+sqflite(sqlite);
+--
+gerenciamento de estoque;
+frente de caixa;
+cadastro de pedidos;
+cadastro de produtos;
+cadastro de tamanhos;
+
+Relatorios -> csv;
